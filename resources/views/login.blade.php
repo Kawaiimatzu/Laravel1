@@ -281,7 +281,7 @@
       <input required="" name="" type="password">
       <label>Password</label>
     </div>
-    <a href="#">
+    <a href="home">
       <span></span>
       <span></span>
       <span></span>
