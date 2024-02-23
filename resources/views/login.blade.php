@@ -109,7 +109,7 @@
         <input class="input-pwd" type="password" placeholder="Enter password">
       </div>
       <button type="submit" class="submit">
-        <span class="sign-text">Sign in</span>
+        <span class="sign-text" href=".../home.blade.php">Sign in</span>
       </button>
 
        

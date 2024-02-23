@@ -7,6 +7,7 @@
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
     <title>Bootstrap Example</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.lordicon.com/lordicon.js"></script>
     <style>
         body {
             width: 100%;
@@ -40,7 +41,7 @@
         
     <nav class="navbar navbar-expand-lg navbar-transparent">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Laravel</a>
+        <a class="navbar-brand" href="#"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -53,6 +54,10 @@
           </div>
         </div>
       </div>
+      <a class="iconprof"  href="login"><lord-icon
+    src="https://cdn.lordicon.com/kthelypq.json"
+    trigger="hover"
+    style="width:40px;height:40px"> </lord-icon></a>
     </nav>
     
       
